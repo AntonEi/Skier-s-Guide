@@ -21,11 +21,14 @@ header {
     height: 90vh;
     max-width: 100%;
 }
+#pagepic {
+    height: 10vh;
+}
 
 #home-header {
     background-color: transparent;
     padding: 0 1rem;
-    position: fixed;
+    position: relative;
     z-index: 99;
     width: 100%;
     display: flex;
@@ -40,7 +43,7 @@ header {
     padding-left: 10%;
     padding-right: 10%;
     text-align: center;
-    position: fixed;
+    position: relative;
 }
 #intro h2 {
     font-weight: 500;
