@@ -19,13 +19,7 @@ body {
 header {
     
 }
-#home-header{
-    background-color: #ffffff;
-    padding: 0 1 rem;
-    position: fixed;
-    z-index: 99;
-    width: 100%;
-}
+
     
 /*Main*/
 main {
