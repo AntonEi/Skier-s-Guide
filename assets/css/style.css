@@ -31,13 +31,15 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 #intro {
     height: 100px;
     padding-top: 60%;
 }
-p {
+p { /* p for the text in the middle of the home start pic */
     text-align: center;
     vertical-align: middle;
 }
@@ -59,7 +61,28 @@ header a {
     font-weight: 600;
 } 
 .active {
-    color: #DFF8EB
+    color: #6E0E0A
+}
+/* navbar style with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: aliceblue;
+    width: 100%;
+    left: 0; 
+    padding: 0 1rem;
+    display: none;
+    box-shadow: 0 2px 2px #3a3a3a;
+    top: 100%;
+ 
+}
+#nav-toggle:checked~nav {
+    display: block;
+}
+#nav-toggle {
+    display: none;
+}
+.nav-toggle-label {
+    font-size: 2rem;
 }
 /*Main*/
 main {
