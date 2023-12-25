@@ -19,8 +19,9 @@ body {
 header {
     background: url(../images/pexels-flo-maderebner-869258.jpg) no-repeat center center/cover;
     height: 400px;
-    
 }
+
+
 #headpic {
     
 }
@@ -39,6 +40,26 @@ header {
 p {
     text-align: center;
     vertical-align: middle;
+}
+h1 {
+    text-transform: uppercase; 
+    letter-spacing: 2px;
+}
+header a {
+    text-decoration: none; 
+    color: inherit;
+}
+#menu { 
+    font-size: 110%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+#menu > li {
+    margin-bottom: 7px;
+    font-weight: 600;
+} 
+.active {
+    color: #DFF8EB
 }
 /*Main*/
 main {
