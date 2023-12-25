@@ -17,15 +17,34 @@ body {
 }
 /*Header*/
 header {
+    background: url(../images/pexels-flo-maderebner-869258.jpg) no-repeat center center/cover;
+    height: 400px;
     
 }
-
+#headpic {
     
+}
+#home-header {
+    background-color: transparent;
+    padding: 0 1 rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+
+}
+#intro {
+    height: 100px;
+    padding-top: 60%;
+}
+p {
+    text-align: center;
+    vertical-align: middle;
+}
 /*Main*/
 main {
+    background-color: blue;
     /* make main elemnt take up any surplus space to push footer down */
     flex: 1 0 auto;
-
 }
 /*footer*/
 footer {
