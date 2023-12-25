@@ -97,8 +97,7 @@ nav {
 .nav-toggle-label {
     font-size: 1.4rem;
 }
-#nav a:hover {
-    color: #6E0E0A;
+
 }
 /*Main*/
 main {
@@ -144,3 +143,9 @@ footer {
         font-size: 150%;
     }
 }
+/* Meadia query: tablet and larger (992px and up) */ 
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #6E0E0A;
+        color: #6E0E0A;
+}    
