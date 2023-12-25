@@ -22,10 +22,6 @@ header {
     max-width: 100%;
 }
 
-
-#headpic {
-    
-}
 #home-header {
     background-color: transparent;
     padding: 0 1rem;
@@ -98,7 +94,7 @@ nav {
     font-size: 1.4rem;
 }
 
-}
+
 /*Main*/
 main {
     background-color: blue;
@@ -107,7 +103,7 @@ main {
 }
 /*footer*/
 footer {
-
+    text-align: center;
 }
 /* Meadia query: tablet and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -143,9 +139,10 @@ footer {
         font-size: 150%;
     }
 }
-/* Meadia query: tablet and larger (992px and up) */ 
+/* Meadia query: laptop and larger (992px and up) */ 
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #6E0E0A;
         color: #6E0E0A;
-}    
+        }   
+} 
