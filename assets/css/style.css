@@ -18,8 +18,8 @@ body {
 /*Header*/
 header {
     background: url(../images/pexels-flo-maderebner-869258.jpg) no-repeat center center/cover;
-    height: 400px;
-
+    height: 90vh;
+    max-width: 100%;
 }
 
 
@@ -40,7 +40,7 @@ header {
 }
 #intro {
     height: 100px;
-    padding-top: 13vh;
+    padding-top: 20vh;
     padding-left: 10%;
     padding-right: 10%;
     text-align: center;
@@ -109,4 +109,38 @@ main {
 /*footer*/
 footer {
 
+}
+/* Meadia query: tablet and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+        background-color: transparent;
+    }
+    #menu {
+        display: flex;
+        
+    }
+    #menu > li {
+        padding-left: 1rem;
+        
+    }
+    .nav-toggle-label {
+        display: none;
+    }
+    #logo {
+        font-size: 150%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+    #intro {
+        padding-top: 20vh;
+        padding-left: 20%;
+        padding-right: 20%;
+        font-size: 150%;
+    }
 }
