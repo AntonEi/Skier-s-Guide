@@ -23,7 +23,7 @@ header {
 }
 /* styling for the header of the pages except home */
 #pagepic {
-    height: 10vh;
+   
 }
 
 #home-header {
@@ -135,6 +135,9 @@ main {
 #resorts p {
     margin-bottom: 20px;
 }
+#resorts a {
+    color:#e70d0d;
+}
 .contaier {
     padding: 0 20px;
     background-color: #f0f2f6;
@@ -149,7 +152,10 @@ hr {
 footer {
     text-align: center;
 }
-/* Meadia query: tablet and larger (768px and up) */
+.head-pic-pages {
+    padding-top: 0;
+}
+ /* Meadia query: tablet and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* header */
     nav {
@@ -193,7 +199,7 @@ footer {
         width: 30%;
         box-sizing: border-box;
         margin: 10px;
-        background-color: #ffffff;
+        background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 50%, #f0f2f6 100%);
         padding: 15px 15px;
     }
     hr {
