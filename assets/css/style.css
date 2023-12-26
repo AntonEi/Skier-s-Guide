@@ -182,8 +182,31 @@ footer {
         padding-right: 20%;
         font-size: 150%;
     }
-    /**/
-}
+    /* ski-resorts sections */
+    #resorts{
+        display: flex;
+        flex-wrap: wrap;
+        column-count: 3;
+        justify-content: space-evenly;
+    }
+    #resorts> div {
+        width: 30%;
+        box-sizing: border-box;
+        margin: 10px;
+        background-color: #ffffff;
+        padding: 15px 15px;
+    }
+    hr {
+        border:none
+    }
+    #resorts {
+        padding: 0px;
+        background-color: #f0f2f6;
+    }
+    .contaier {
+        padding: 0 20px;
+        background-color: #f0f2f6;
+    }
 /* Meadia query: laptop and larger (992px and up) */ 
 @media screen and (min-width: 992px) {
     #menu a:hover {
