@@ -22,9 +22,7 @@ header {
     max-width: 100%;
 }
 /* styling for the header of the pages except home */
-#pagepic {
-   
-}
+
 
 #home-header {
     background-color: transparent;
@@ -205,18 +203,17 @@ hr {
     line-height: 1.5;
 }
 
-#ski-guide>img {
-    width: 70%;
-    background: no-repeat center center/cover;
+#ski-guide img {
+    width: 100%;
+    height: auto;
+    background: no-repeat cover;
     margin-bottom: 10px;
 }
 
 #ski-guide {
-    margin: 20px 20px;
+    margin: 20px auto;
     width: 90%;
     background-color: #f0f2f6;
-    display: flex;
-    justify-content: center;
 }
 
 #guide {
@@ -230,6 +227,18 @@ hr {
 
 #guide a {
     color: #e70d0d;
+}
+
+.contaier {
+    padding: 0 20px;
+    background-color: #f0f2f6;
+}
+
+hr {
+    border-top: 15px solid #f0f2f6;
+    margin-left: -30px;
+    margin-right: -20px;
+    border-left: none;
 }
 
 /*footer*/
@@ -297,10 +306,55 @@ footer {
         padding: 0 20px;
         background-color: #f0f2f6;
     }
+    #resorts{
+        display: flex;
+        flex-wrap: wrap;
+        column-count: 3;
+        justify-content: space-evenly;
+    }
+    #resorts> div {
+        width: 30%;
+        box-sizing: border-box;
+        margin: 10px;
+        background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 50%, #f0f2f6 100%);
+        padding: 15px 15px;
+    }
+    hr {
+        border:none
+    }
+    #resorts {
+        padding: 0px;
+        background-color: #f0f2f6;
+    }
+    .contaier {
+        padding: 0 20px;
+        background-color: #f0f2f6;
+    }
+
+    #guide {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        flex-direction: column;
+    }
+    
+    #guide>div {
+        width: 30%;
+        box-sizing: border-box;
+        margin: 10px;
+        background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 50%, #f0f2f6 100%);
+        padding: 15px 15px;
+    }
+    
+    #guide {
+        padding: 0px;
+       background-color: #f0f2f6;
+    }
+    
 /* Meadia query: laptop and larger (992px and up) */ 
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #6E0E0A;
         color: #6E0E0A;
         }   
-} 
+    } 
