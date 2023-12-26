@@ -185,6 +185,52 @@ hr {
     font-weight: 400;
     line-height: 1.5;
 }
+/* styling for the ski-guide section */
+
+#ski-guide>h2 {
+    font-size: 150%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#guide h3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#ski-guide>p {
+    margin: 20px 40px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+#ski-guide>img {
+    width: 70%;
+    background: no-repeat center center/cover;
+    margin-bottom: 10px;
+}
+
+#ski-guide {
+    margin: 20px 20px;
+    width: 90%;
+    background-color: #f0f2f6;
+    display: flex;
+    justify-content: center;
+}
+
+#guide {
+    padding: 0 20px;
+    background-color: #ffffff;
+}
+
+#guide p {
+    margin-bottom: 20px;
+}
+
+#guide a {
+    color: #e70d0d;
+}
 
 /*footer*/
 footer {
