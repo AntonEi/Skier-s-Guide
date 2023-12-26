@@ -50,10 +50,6 @@ header {
     font-size: 3em;
     color: #ffffff;
 }
-p { /* p for the text in the middle of the home start pic */
-    text-align: center;
-    vertical-align: middle;
-}
 h1 {
     text-transform: uppercase; 
     letter-spacing: 2px;
@@ -101,10 +97,38 @@ nav {
 
 /*Main*/
 main {
-    background-color: blue;
+    color: black;
     /* make main elemnt take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 70vh ;
+}
+#ski-resorts>h2 {
+    font-size: 280%;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+#ski-resorts img {
+    width: 100%;
+    height: auto;
+    background: no-repeat cover;
+    margin-bottom: 10px;
+}
+#ski-resorts {
+    margin: 20px auto;
+    width: 90%;
+    background-color: #f0f2f6;
+}
+#resorts {
+    padding: 0 20px;
+    background-color: #ffffff;
+}
+#resorts p {
+    margin-bottom: 10px;
+}
+.contaier {
+    padding: 0 20px;
+    background-color: #f0f2f6;
 }
 /*footer*/
 footer {
