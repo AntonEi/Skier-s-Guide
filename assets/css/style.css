@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     /* generic project styles */
-    color: #3a3a3a
+    color: #ffffff;
 }
 /*Header*/
 header {
@@ -21,6 +21,7 @@ header {
     height: 90vh;
     max-width: 100%;
 }
+/* styling for the header of the pages except home */
 #pagepic {
     height: 10vh;
 }
@@ -48,7 +49,7 @@ header {
 #intro h2 {
     font-weight: 500;
     font-size: 2.7em;
-    color: #c5273a;
+    color: #ffffff;
 }
 p { /* p for the text in the middle of the home start pic */
     text-align: center;
@@ -73,8 +74,8 @@ header a {
     font-weight: 600;
 } 
 .active {
-    color: #6E0E0A;
-    border-bottom: 1px solid #6E0E0A;
+    color: #94b8da;
+    border-bottom: 1px solid #94b8da;
 
 }
 /* navbar style with dropdown toggle */
@@ -103,6 +104,7 @@ main {
     background-color: blue;
     /* make main elemnt take up any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 62vh ;
 }
 /*footer*/
 footer {
