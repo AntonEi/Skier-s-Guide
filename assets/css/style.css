@@ -148,6 +148,42 @@ hr {
     margin-right: -20px;
     border-left: none;
 }
+/*for the best gear section*/
+#gear {
+    background: url(../images/For\ best\ gear.jpg) no-repeat center/cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+#gear div {
+    color:#fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    padding: 15px;
+    text-align: center;
+    /* This will not wrap on creens of less than 400px wide.
+    Each div will expand to fill the availble space on its row*/
+    flex-basis: 400px;
+    flex-grow: 1;
+    border: 2px solid white;
+    
+}
+#gear p {
+    font-size: 180%;
+}
+#gear h4 {
+    font-size: 130%;
+}
+#best-gear {
+    margin: 3em 3em;
+}
+#best-gear h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+#best-gear>p {
+    margin: 10px 20px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.5;
 /*footer*/
 footer {
     text-align: center;
