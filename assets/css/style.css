@@ -357,7 +357,35 @@ footer {
 #guidepage a {
     color: #e70d0d;
 }
+/* for the ski-guide page */
+.skiguidepage {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f0f2f6;
+    
+}
+iframe{
+    width: 100%;
+    height: 350px;
+    max-width: 600px;
+    margin-top: 10px;
+}
 
+.skiguidepage img {
+    height: auto;
+    width: 75%;
+    float: top;
+}
+
+.skiguidepage p {
+    padding-top: 1%;
+    margin: 20px;
+}
+.guidecontainer {
+    margin: 20px;
+    color: white;
+}
  /* Meadia query: tablet and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* header */
@@ -482,11 +510,30 @@ footer {
         padding: 0 20px;
         background-color: #f0f2f6;
     }
-}    
+    .skiguidepage img {
+       height: 280px;
+       width: 280px;
+       float: left;
+       padding-right: 2%;
+    }
+    iframe {
+        float: right;
+    }
+}
+
+/* Meadia query: laptop and larger (992px and up) */
+@media screen and (min-width: 922px) {
+    .contain-content{
+        margin:5em 15em;
+    }
+    
+}
+
 /* Meadia query: laptop and larger (992px and up) */ 
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #6E0E0A;
         color: #6E0E0A;
-        }   
+        }
+        
     } 
