@@ -140,7 +140,6 @@ main {
 #ski-resorts img {
     width: 100%;
     height: auto;
-    background: no-repeat cover;
     margin-bottom: 10px;
 }
 
@@ -240,7 +239,6 @@ hr {
 #ski-guide img {
     width: 100%;
     height: auto;
-    background: no-repeat cover;
     margin-bottom: 10px;
 }
 
@@ -406,7 +404,7 @@ footer {
 
 .footer-section {
     flex: 1;
-    margin: 0 20;
+    margin: 0 20px;
 }
 
 .footer-section h2 {
