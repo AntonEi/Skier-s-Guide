@@ -275,8 +275,37 @@ hr {
 
 /*footer*/
 footer {
-    text-align: center;
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px 0;
 }
+.footer-content {
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footer-section {
+    flex: 1;
+    margin: 0 20;
+}
+.footer-section h2{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-left: 5px;
+}
+.footer-section p {
+    font-size: 0.9em;
+    margin-left: 10px;
+}
+.footer-section a {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #ffffff;
+    align-content: space-between;
+}
+
 /* for the ski-resort page */
 .head-pic-pages {
     padding-top: 0;
@@ -532,7 +561,7 @@ iframe{
 /* Meadia query: laptop and larger (992px and up) */
 @media screen and (min-width: 922px) {
     .contain-content{
-        margin:5em 15em;
+        
     }
     
 }
