@@ -245,19 +245,20 @@ hr {
 footer {
     text-align: center;
 }
+/* for the ski-resort page */
 .head-pic-pages {
     padding-top: 0;
 }
 #skiresort-page{
     display: flex;
     justify-content: space-between;
-    padding: 40px;
+    padding: 10px;
     width: 100%;
-    margin: 1rem 10px 0 10px;
+    background-color: #f0f2f6;
 }
 #skiresort-page img {
-    height: 200px;
-    width: 280px;
+    height: auto;
+    width: 75%;
     float: top;
 }
 #skiresort-page p{
@@ -343,10 +344,15 @@ footer {
     #guide img {
         float: right;
     }
+    /* for the ski-resort page */
     #skiresort-page img {
         height: 200px;
         width: 280px;
         float: left;
+        padding-right: 2%;
+    }
+    #skiresort-page p {
+        padding-right: 1%;
 }    
 /* Meadia query: laptop and larger (992px and up) */ 
 @media screen and (min-width: 992px) {
