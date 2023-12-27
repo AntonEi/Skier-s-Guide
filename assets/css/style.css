@@ -5,6 +5,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 /* general styles */
 body {
     font-family: 'Raleway', sans-serif;
@@ -15,16 +16,19 @@ body {
     /* generic project styles */
     color: #ffffff;
 }
+
 /*Header*/
 header {
     background: url(../images/pexels-flo-maderebner-869258.jpg) no-repeat center center/cover;
     height: 90vh;
     max-width: 100%;
 }
+
 /* styling for the header of the pages except home */
 .otherheader {
     height: 12vh;
 }
+
 .home-header {
     background-color: transparent;
     padding: 0 1rem;
@@ -36,6 +40,7 @@ header {
     align-items: baseline;
     padding-top: 10px;
 }
+
 #intro {
     height: 100px;
     padding-top: 15vh;
@@ -44,35 +49,42 @@ header {
     text-align: center;
     position: relative;
 }
+
 #intro h2 {
     font-weight: 500;
     font-size: 3em;
     color: #ffffff;
 }
+
 h1 {
     text-transform: uppercase; 
     letter-spacing: 2px;
     font-size: 150%;
     margin: 0 0.5rem;
 }
+
 a {
     text-decoration: none; 
     color: inherit;
 }
+
 #menu { 
     font-size: 115%;
     letter-spacing: 2px;
     list-style-type: none;
 }
+
 #menu > li {
     margin-bottom: 7px;
     font-weight: 600;
 } 
+
 .active {
     color: #e70d0d;
     border-bottom: 1px solid #e70d0d;
 
 }
+
 /* navbar style with dropdown toggle */
 nav {
     position: absolute;
@@ -83,17 +95,21 @@ nav {
     display: none;
     top: 100%;
 }
+
 #nav-toggle:checked~nav {
     display: block;
 }
+
 #nav-toggle {
     display: none;
 }
+
 .nav-toggle-label {
     font-size: 2rem;
     color: #e70d0d;
     position: relative;
 }
+
 
 
 /*Main*/
@@ -102,42 +118,51 @@ main {
     /* make main elemnt take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
+
 #ski-resorts>h2 {
     font-size: 150%;
     text-align: center;
     padding-top: 20px;
 }
+
 #resorts h3{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 #ski-resorts>p {
     margin: 20px 40px;
     text-align: center;
     font-weight: 400;
     line-height: 1.5;
 }
+
 #ski-resorts img {
     width: 100%;
     height: auto;
     background: no-repeat cover;
     margin-bottom: 10px;
 }
+
 #ski-resorts {
     margin: 20px auto;
     width: 90%;
     background-color: #f0f2f6;
 }
+
 #resorts {
     padding: 0 20px;
     background-color: #ffffff;
 }
+
 #resorts p {
     margin-bottom: 20px;
 }
+
 #resorts a {
     color:#e70d0d;
 }
+
 .contaier {
     padding: 0 20px;
     background-color: #f0f2f6;
@@ -164,27 +189,31 @@ hr {
     flex-basis: 400px;
     flex-grow: 1;
     border: 2px solid white;
-    
 }
 #gear p {
     font-size: 180%;
 }
+
 #gear h4 {
     font-size: 130%;
 }
+
 #best-gear {
     margin: 3em 3em;
 }
+
 #best-gear h2 {
     text-align: center;
     margin-bottom: 10px;
 }
+
 #best-gear>p {
     margin: 10px 20px;
     text-align: center;
     font-weight: 400;
     line-height: 1.5;
 }
+
 /* styling for the ski-guide section */
 
 #ski-guide>h2 {
@@ -192,6 +221,7 @@ hr {
     text-align: center;
     padding-top: 20px;
 }
+
 
 #guide h3 {
     padding-top: 20px;
