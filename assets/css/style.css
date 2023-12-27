@@ -252,15 +252,16 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: 40px;
-    width: 60%;
-    margin: 10rem auto 0 auto;
+    width: 100%;
+    margin: 1rem 10px 0 10px;
 }
 #skiresort-page img {
     height: 200px;
-    float: left;
+    width: 280px;
+    float: top;
 }
 #skiresort-page p{
-    padding-top: 5%;
+    padding-top: 1%;
 }
  /* Meadia query: tablet and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -342,6 +343,10 @@ footer {
     #guide img {
         float: right;
     }
+    #skiresort-page img {
+        height: 200px;
+        width: 280px;
+        float: left;
 }    
 /* Meadia query: laptop and larger (992px and up) */ 
 @media screen and (min-width: 992px) {
