@@ -17,7 +17,7 @@ body {
     color: #ffffff;
 }
 
-/*Header*/
+/* Header picutre */
 header {
     background: url(../images/pexels-flo-maderebner-869258.jpg) no-repeat center center/cover;
     height: 90vh;
@@ -28,7 +28,7 @@ header {
 .otherheader {
     height: 12vh;
 }
-
+/* style on the header*/
 .home-header {
     background-color: transparent;
     padding: 0 1rem;
@@ -40,7 +40,7 @@ header {
     align-items: baseline;
     padding-top: 10px;
 }
-
+/* styling for the white text in the header picture*/
 #intro {
     height: 100px;
     padding-top: 15vh;
@@ -62,12 +62,12 @@ h1 {
     font-size: 150%;
     margin: 0 0.5rem;
 }
-
+/* style for all the links*/
 a {
     text-decoration: none; 
     color: inherit;
 }
-
+/* styling for the navbar */
 #menu { 
     font-size: 115%;
     letter-spacing: 2px;
@@ -118,7 +118,7 @@ main {
     /* make main elemnt take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
-
+/* styling for the skiresort section on the home page*/
 #ski-resorts>h2 {
     font-size: 150%;
     text-align: center;
@@ -162,18 +162,20 @@ main {
 #resorts a {
     color:#e70d0d;
 }
-
+/* this is for best ski resorts and ski guide section on the home page. And for the content on the gearguide page  */
 .contaier {
     padding: 0 20px;
     background-color: #f0f2f6;
 }
+/* this is for best ski resorts and ski guide section on the home page. And for the content on the gearguide page  */
 hr {
     border-top: 15px solid #f0f2f6;
     margin-left: -30px;
     margin-right: -20px;
     border-left: none;
 }
-/*for the best gear section*/
+
+/* for the best gear section on homepage*/
 #gear {
     background: url(../images/For\ best\ gear.jpg) no-repeat center/cover;
     display: flex;
@@ -214,7 +216,7 @@ hr {
     line-height: 1.5;
 }
 
-/* styling for the ski-guide section */
+/* styling for the ski-guide section on the home page */
 
 #ski-guide>h2 {
     font-size: 150%;
@@ -261,51 +263,6 @@ hr {
     color: #e70d0d;
 }
 
-.contaier {
-    padding: 0 20px;
-    background-color: #f0f2f6;
-}
-
-hr {
-    border-top: 15px solid #f0f2f6;
-    margin-left: -30px;
-    margin-right: -20px;
-    border-left: none;
-}
-
-/*footer*/
-footer {
-    background-color: #333;
-    color: #ffffff;
-    padding: 20px 0;
-}
-.footer-content {
-    display:flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
-.footer-section {
-    flex: 1;
-    margin: 0 20;
-}
-.footer-section h2{
-    font-size: 1.5em;
-    margin-bottom: 10px;
-    margin-left: 0;
-    margin-left: 5px;
-}
-.footer-section p {
-    font-size: 0.9em;
-    margin-left: 10px;
-}
-.footer-section a {
-    display: block;
-    margin-top: 10px;
-    text-decoration: none;
-    color: #ffffff;
-    align-content: space-between;
-}
-
 /* for the ski-resort page */
 .head-pic-pages {
     padding-top: 0;
@@ -335,7 +292,7 @@ footer {
     background: linear-gradient(180deg, #3E6990 0%, #f8f9fa 50%, #f0f2f6 100%);
     margin: -10px;
 }
-/* css for the gear-guide page */
+/* for the gear-guide page */
 
 #gearguidepage h2 {
     font-size: 250%;
@@ -401,10 +358,10 @@ footer {
 }
 .head-p {
     padding: 20px 40px;
-        text-align: center;
-        font-weight: 400;
-        line-height: 1.5;
-        background: #f0f2f6;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.5;
+    background: #f0f2f6;
 }
 iframe{
     width: 100%;
@@ -418,6 +375,7 @@ iframe{
     width: 75%;
     float: top;
 }
+
 .skiguidepage h3 {
     padding-top: 1%;
     margin: 20px;
@@ -427,9 +385,48 @@ iframe{
     padding-top: 1%;
     margin: 20px;
 }
+
 .guidecontainer {
     margin: 20px;
     color: white;
+}
+
+/*footer*/
+footer {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px 0;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.footer-section {
+    flex: 1;
+    margin: 0 20;
+}
+
+.footer-section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-left: 5px;
+}
+
+.footer-section p {
+    font-size: 0.9em;
+    margin-left: 10px;
+}
+
+.footer-section a {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #ffffff;
+    align-content: space-between;
 }
  /* Meadia query: tablet and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -478,17 +475,22 @@ iframe{
         background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 50%, #f0f2f6 100%);
         padding: 15px 15px;
     }
-    hr {
-        border:none
-    }
+    
+    
     #resorts {
         padding: 0px;
         background-color: #f0f2f6;
     }
+    /* this is for best ski resorts and ski guide section on the home page. And for the content on the gearguide page  */
+    hr {
+        border:none
+    }
+    /* this is for best ski resorts and ski guide section on the home page. And for the content on the gearguide page  */
     .contaier {
         padding: 0 20px;
         background-color: #f0f2f6;
     }
+    /* for the gear-guide section */
     #guide {
         display: flex;
         flex-wrap: wrap;
@@ -537,10 +539,7 @@ iframe{
         background: linear-gradient(180deg, #f0f2f6 0%, #f0f2f6 5%, #8896AB 100%);
         padding: 15px 15px;
     }
-    
-    hr {
-        border: none
-    }
+
     #guidepage p {
         color:white;
         padding-top: 10px;
@@ -548,11 +547,6 @@ iframe{
     
     #guidepage {
         padding: 0px;
-        background-color: #f0f2f6;
-    }
-    
-    .contaier {
-        padding: 0 20px;
         background-color: #f0f2f6;
     }
     .skiguidepage img {
@@ -573,11 +567,12 @@ iframe{
         max-width: 960px;
         margin: 0 auto;
     }
+
     .contain-content h1 {
             margin:0;
             background: #f0f2f6;
-
     }
+    
     .containcolor {
         background-color: #f0f2f6;
     }
