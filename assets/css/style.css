@@ -22,8 +22,12 @@ header {
     max-width: 100%;
 }
 /* styling for the header of the pages except home */
-
-
+.otherheader {
+    height: 4em;
+    position: relative;
+    display: flex;
+    z-index: 99;
+}
 #home-header {
     background-color: transparent;
     padding: 0 1rem;
@@ -54,7 +58,7 @@ h1 {
     font-size: 160%;
     margin: 0 0.5rem;
 }
-header a {
+a {
     text-decoration: none; 
     color: inherit;
 }
@@ -89,7 +93,9 @@ nav {
     display: none;
 }
 .nav-toggle-label {
-    font-size: 1.4rem;
+    font-size: 2rem;
+    color: #e70d0d;
+    position: relative;
 }
 
 
@@ -98,7 +104,6 @@ main {
     color: black;
     /* make main elemnt take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 70vh ;
 }
 #ski-resorts>h2 {
     font-size: 150%;
@@ -249,20 +254,23 @@ footer {
 .head-pic-pages {
     padding-top: 0;
 }
-#skiresort-page{
+.skiresort-page{
     display: flex;
     justify-content: space-between;
     padding: 10px;
     width: 100%;
     background-color: #f0f2f6;
 }
-#skiresort-page img {
+.skiresort-page img {
     height: auto;
     width: 75%;
     float: top;
 }
-#skiresort-page p{
+.skiresort-page p{
     padding-top: 1%;
+}
+.othermain {
+    margin: 0;
 }
  /* Meadia query: tablet and larger (768px and up) */
 @media screen and (min-width: 768px) {
@@ -345,14 +353,12 @@ footer {
         float: right;
     }
     /* for the ski-resort page */
-    #skiresort-page img {
+    .skiresort-page img {
         height: 200px;
         width: 280px;
         float: left;
         padding-right: 2%;
     }
-    #skiresort-page p {
-        padding-right: 1%;
 }    
 /* Meadia query: laptop and larger (992px and up) */ 
 @media screen and (min-width: 992px) {
