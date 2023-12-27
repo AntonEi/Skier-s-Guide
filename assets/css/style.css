@@ -377,7 +377,14 @@ iframe{
     width: 75%;
     float: top;
 }
-
+.skiguidepage h2 {
+    padding-top: 1%;
+    margin: 20px;
+}
+.skiguidepage p {
+    padding-top: 1%;
+    margin: 20px;
+}
 .skiguidepage p {
     padding-top: 1%;
     margin: 20px;
@@ -519,6 +526,7 @@ iframe{
     iframe {
         float: right;
     }
+    
 }
 
 /* Meadia query: laptop and larger (992px and up) */
