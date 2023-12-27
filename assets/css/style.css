@@ -306,6 +306,52 @@ footer {
     background: linear-gradient(180deg, #3E6990 0%, #f8f9fa 50%, #f0f2f6 100%);
     margin: -10px;
 }
+/* css for the gear-guide page */
+
+#gearguidepage>h2 {
+    font-size: 150%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#guidepage h3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 170%;
+}
+
+#gearguidepage>p {
+    margin: 20px 40px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+#guidepage img {
+    height: auto;
+        width: 100%;
+        float: top;
+}
+
+#gearguidepage {
+    margin: 20px auto;
+    width: 90%;
+    background-color: #f0f2f6;
+}
+
+#guidepage {
+    padding: 0 20px;
+    background-color: #ffffff;
+}
+
+#guidepage p {
+    margin-bottom: 20px;
+}
+
+#guidepage a {
+    color: #e70d0d;
+}
+
  /* Meadia query: tablet and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* header */
@@ -396,6 +442,39 @@ footer {
     .othermain h1 {
         padding: 30px;
         font-size: 250%;
+    }
+    /* for the gear-guide page*/
+    #guidepage {
+        display: flex;
+        flex-wrap: wrap;
+        column-count: 3;
+        justify-content: space-evenly;
+    }
+    
+    #guidepage>div {
+        width: 30%;
+        box-sizing: border-box;
+        margin: 10px;
+        background: linear-gradient(180deg, #f0f2f6 0%, #f0f2f6 5%, #8896AB 100%);
+        padding: 15px 15px;
+    }
+    
+    hr {
+        border: none
+    }
+    #guidepage p {
+        color:white;
+        padding-top: 10px;
+    }
+    
+    #guidepage {
+        padding: 0px;
+        background-color: #f0f2f6;
+    }
+    
+    .contaier {
+        padding: 0 20px;
+        background-color: #f0f2f6;
     }
 }    
 /* Meadia query: laptop and larger (992px and up) */ 
