@@ -275,7 +275,6 @@ hr {
 .skiresort-page img {
     height: auto;
     width: 75%;
-    float: top;
 }
 .skiresort-page p{
     padding-top: 1%;
@@ -313,8 +312,7 @@ hr {
 
 #guidepage img {
     height: auto;
-        width: 100%;
-        float: top;
+        width: 100%;       
 }
 
 #gearguidepage {
@@ -371,7 +369,6 @@ iframe{
 .skiguidepage img {
     height: auto;
     width: 75%;
-    float: top;
 }
 
 .skiguidepage h3 {
