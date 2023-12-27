@@ -23,12 +23,9 @@ header {
 }
 /* styling for the header of the pages except home */
 .otherheader {
-    height: 4em;
-    position: relative;
-    display: flex;
-    z-index: 99;
+    height: 12vh;
 }
-#home-header {
+.home-header {
     background-color: transparent;
     padding: 0 1rem;
     position: relative;
@@ -55,7 +52,7 @@ header {
 h1 {
     text-transform: uppercase; 
     letter-spacing: 2px;
-    font-size: 160%;
+    font-size: 150%;
     margin: 0 0.5rem;
 }
 a {
