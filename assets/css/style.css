@@ -248,6 +248,20 @@ footer {
 .head-pic-pages {
     padding-top: 0;
 }
+#skiresort-page{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    margin: 10rem auto 0 auto;
+}
+#skiresort-page img {
+    height: 200px;
+    float: left;
+}
+#skiresort-page p{
+    padding-top: 5%;
+}
  /* Meadia query: tablet and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* header */
@@ -306,37 +320,12 @@ footer {
         padding: 0 20px;
         background-color: #f0f2f6;
     }
-    #resorts{
-        display: flex;
-        flex-wrap: wrap;
-        column-count: 3;
-        justify-content: space-evenly;
-    }
-    #resorts> div {
-        width: 30%;
-        box-sizing: border-box;
-        margin: 10px;
-        background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 50%, #f0f2f6 100%);
-        padding: 15px 15px;
-    }
-    hr {
-        border:none
-    }
-    #resorts {
-        padding: 0px;
-        background-color: #f0f2f6;
-    }
-    .contaier {
-        padding: 0 20px;
-        background-color: #f0f2f6;
-    }
-
     #guide {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-evenly;
-        flex-direction: column;
-    }
+        column-count: 3;
+     }
     
     #guide>div {
         width: 30%;
@@ -348,9 +337,12 @@ footer {
     
     #guide {
         padding: 0px;
-       background-color: #f0f2f6;
+        background-color: #f0f2f6;
     }
-    
+    #guide img {
+        float: right;
+    }
+}    
 /* Meadia query: laptop and larger (992px and up) */ 
 @media screen and (min-width: 992px) {
     #menu a:hover {
