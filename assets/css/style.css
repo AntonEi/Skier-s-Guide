@@ -308,8 +308,8 @@ footer {
 }
 /* css for the gear-guide page */
 
-#gearguidepage>h2 {
-    font-size: 150%;
+#gearguidepage h2 {
+    font-size: 250%;
     text-align: center;
     padding-top: 20px;
 }
@@ -341,11 +341,17 @@ footer {
 
 #guidepage {
     padding: 0 20px;
-    background-color: #ffffff;
+    background-color: #f0f2f6;
+}
+
+#guidepage div {
+    background: linear-gradient(180deg, #f0f2f6 0%, #f0f2f6 5%, #8896AB 100%);
 }
 
 #guidepage p {
-    margin-bottom: 20px;
+    margin: 15px;
+    padding-bottom: 15px;
+    color: #ffffff
 }
 
 #guidepage a {
