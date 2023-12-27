@@ -176,7 +176,7 @@ hr {
 
 /* for the best gear section on homepage*/
 #gear {
-    background: url(../images/For\ best\ gear.jpg) no-repeat center/cover;
+    background: url(../images/for-best-gear-background.jpg) no-repeat center/cover;
     display: flex;
     flex-wrap: wrap;
 }
