@@ -107,8 +107,6 @@ The Raleway font is the main font used throughout the whole website. This font w
   
 ![footer](assets/images/footer.png)
 
-
-
 ### Features Left to Implement
   - Burger button for the mobile nav bar.
 
@@ -127,7 +125,7 @@ The Raleway font is the main font used throughout the whole website. This font w
 - #### Accessibility
   - The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
 
-[lighthouse score.........]()
+[Lighthouse score](assets/images/lighthouse.png)
 
 ### Links Testing
 
