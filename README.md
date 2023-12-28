@@ -78,14 +78,14 @@ The Raleway font is the main font used throughout the whole website. This font w
   - The Ski Guide section provides comprehensive skiing instructions tailored for individuals ranging from beginners to intermediates and experts, offering valuable insights for enthusiasts at every skill level.
   - At the end of each text, there's a link to explore other pages for more in-depth information and a comprehensive understanding.
   
-![ski guide section]()
+![ski guide section](assets/images/ski-guide-seg.png)
 
 - ### Ski Resort Page
   - On the Ski Guide page, you'll discover a curated list, ranked from 1 to 6, showcasing the best ski resorts out there.
   - Explore additional details about each ski resort.
   -  you can click the provided link to visit the official website of each ski resort for further information.
 
-![ski resort page]()
+![ski resort page](assets/images/resort-page.png)
 
 - ### Gear Guide 
   - On the Gear Guide page, discover the latest and most advanced skiing gear available.
