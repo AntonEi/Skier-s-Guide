@@ -44,7 +44,8 @@ The Skier Guide energetic tones capture the thrill of skiing, while calming hues
 The Raleway font is the main font used throughout the whole website. This font was imported via [Google Fonts](https://fonts.google.com/). I'm using Sans Serif as a backup font, in case for any reason the main font isn't being imported into the site correctly.
 
 ### Wireframes
-...........................
+ - [Wireframes desktop](assets/images/newwireframe1.png)
+ - [Wireframes mobile](assets/images/newwireframe2.png)
 
 ## Features
 - ### Navigation
@@ -223,8 +224,8 @@ All images and videos were sourced from the below websites with thanks to the be
 
 ### Resources Used
 
-- inspired by [Demo.templatemonster](https://demo.templatemonster.com/demo/98665.html?_gl=1*1pod1yf*_ga*NjEzMzI1ODc2LjE3MDM1Mjc3NjA.*_ga_FTPYEGT5LY*MTcwMzYxMzc2My41LjEuMTcwMzYxNDAxMS40OC4wLjA.)
-- [Stack Overflow](https://stackoverflow.com/)
+- inspired by [Demo.templatemonster](https://demo.templatemonster.com/demo/98665.html?
+- Inspiration for gear section in home page - [Code Institutes](https://learn.codeinstitute.net/) 'Love Running Project'
 
 ## Acknowledgments
 
