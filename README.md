@@ -37,5 +37,19 @@ the live link can be found here - [Skier's guide](https://antonei.github.io/Skie
 ### Imagery 
 The imagery used on the Skier Guide site is very important to the overall experience of the user. Captivating images of snow-capped mountains create a sense of adventure and anticipation, transporting users to the exhilarating world of skiing. These visuals not only showcase the breathtaking beauty of the slopes but also evoke the thrill and serenity of the skiing experience.
 
-### colours
+### Colours
 The Skier Guide energetic tones capture the thrill of skiing, while calming hues reflect snow-covered landscapes. Primarily featuring white and gray tones with strategic touches of red.
+
+### Fonts
+The Raleway font is the main font used throughout the whole website. This font was imported via [Google Fonts](https://fonts.google.com/). I'm using Sans Serif as a backup font, in case for any reason the main font isn't being imported into the site correctly.
+
+### Wireframes
+...........................
+
+## Features
+- ### Navigation
+
+  - The fully responsive navigation bar includes links to the Home, Ski Resorts, Gear Guide, Ski Guide. 
+  - On smaller devices, a space-saving dropdown menu is implemented, streamlining navigation for an optimized user experience. This design choice prioritizes efficiency while maintaining the website's clean and intuitive interface.
+  - On smaller devices, the dropdown menu features a gray background, enhancing text visibility and ensuring a user-friendly experience by prioritizing clarity and readability.
+
