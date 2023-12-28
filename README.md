@@ -108,7 +108,7 @@ The Raleway font is the main font used throughout the whole website. This font w
 ![footer](assets/images/footer.png)
 
 ### Features Left to Implement
-  - Burger button for the mobile nav bar.
+- Hover on the gear page
 
 ## Testing
 
