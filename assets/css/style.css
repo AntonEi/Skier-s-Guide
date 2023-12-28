@@ -125,6 +125,7 @@ main {
     padding-top: 20px;
 }
 
+
 #resorts h3{
     padding-top: 20px;
     padding-bottom: 20px;
@@ -296,6 +297,7 @@ hr {
 .skiresort-page a {
     color: #e70d0d;
 }
+
 /* for the gear-guide page */
 
 #gearguidepage h2 {
@@ -415,7 +417,7 @@ footer {
     font-size: 1.5em;
     margin-bottom: 10px;
     margin-left: 0;
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
 .footer-section p {
@@ -426,6 +428,7 @@ footer {
 .footer-section a {
     display: block;
     margin-top: 10px;
+    margin-left: 10px;
     text-decoration: none;
     color: #ffffff;
     align-content: space-between;
@@ -504,7 +507,7 @@ footer {
         width: 30%;
         box-sizing: border-box;
         margin: 10px;
-        background: linear-gradient(180deg, #ffffff 0%, #f8f9fa 50%, #f0f2f6 100%);
+        background: linear-gradient(180deg,#f0f2f6 0%, #f8f9fa 50%,#ffffff 100%);
         padding: 15px 15px;
     }
     
