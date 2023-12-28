@@ -6,7 +6,7 @@ Our guide goes beyond the slopes, delving into the intricacies of skiing techniq
 
 The live link can be found here - [Skier's Guide](https://antonei.github.io/Skier-s-Guide/)
 
-![Skier's guide](assets/images/skarmbild.png)
+![Skier's guide](docs/readme_images/skarmbild.png)
 
 
 ## Site Owner Goals
@@ -44,8 +44,8 @@ The Skier Guide energetic tones capture the thrill of skiing, while calming hues
 The Raleway font is the main font used throughout the whole website. This font was imported via [Google Fonts](https://fonts.google.com/). I'm using Sans Serif as a backup font, in case for any reason the main font isn't being imported into the site correctly.
 
 ### Wireframes
-![Wireframes desktop](assets/images/newwireframe1.png)
-![Wireframes mobile](assets/images/newwireframe2.png)
+![Wireframes desktop](docs/readme_images/newwireframe1.png)
+![Wireframes mobile](docs/readme_images/newwireframe2.png)
 
 ## Features
 - ### Navigation
@@ -54,58 +54,58 @@ The Raleway font is the main font used throughout the whole website. This font w
   - On smaller devices, a space-saving dropdown menu is implemented, streamlining navigation for an optimized user experience. This design choice prioritizes efficiency while maintaining the website's clean and intuitive interface.
   - On smaller devices, the dropdown menu features a gray background, enhancing text visibility and ensuring a user-friendly experience by prioritizing clarity and readability.
 
-![nav bar image](assets/images/navbar.png)
+![nav bar image](docs/readme_images/navbar.png)
 
 - ### The Landing Page Image
   - The captivating landing page features an enticing image with a compelling text overlay, inviting you to embark on a journey to explore the skiing world with Skiers Guide.
   - This section provides the user with a clear visual representation of the purpose of the site.
 
-![Landing page image](assets/images/land-page.png)
+![Landing page image](docs/readme_images/land-page.png)
 
 - ### Best Ski Resort Section
   - The Best Ski Resort section offers concise descriptions of our top three ski paradises
   - Above the text, there are small pictures showcasing the ski resort.
   - Below the text, you'll find a link to explore more top resorts on the dedicated page.
  
- ![best ski resort section img](assets/images/best-ski-resort-section.png) 
+ ![best ski resort section img](docs/readme_images/best-ski-resort-section.png) 
 
 - ### Best Ski Gear Section
   - This section comprises five blocks, each featuring pictures illustrating skiing gear with a background of an mountain.
   - Each block functions as a link, directing you to the dedicated ski gear page.
 
-![Gear guide section](assets/images/gear-guide-section.png)
+![Gear guide section](docs/readme_images/gear-guide-section.png)
 
 - ### Ski Guide Section
   - The Ski Guide section provides comprehensive skiing instructions tailored for individuals ranging from beginners to intermediates and experts, offering valuable insights for enthusiasts at every skill level.
   - At the end of each text, there's a link to explore other pages for more in-depth information and a comprehensive understanding.
   
-![ski guide section](assets/images/ski-guide-seg.png)
+![ski guide section](docs/readme_images/ski-guide-seg.png)
 
 - ### Ski Resort Page
   - On the Ski Guide page, you'll discover a curated list, ranked from 1 to 6, showcasing the best ski resorts out there.
   - Explore additional details about each ski resort.
   -  you can click the provided link to visit the official website of each ski resort for further information.
 
-![ski resort page](assets/images/resort-page.png)
+![ski resort page](docs/readme_images/resort-page.png)
 
 - ### Gear Guide 
   - On the Gear Guide page, discover the latest and most advanced skiing gear available.
   - You can also find detailed information on each piece of gear directly on the page.
   
-![Gear Guide](assets/images/gear-guide-page.png) 
+![Gear Guide](docs/readme_images/gear-guide-page.png) 
 
 - ### Ski Guide Page
   - On the Ski Guide page, whether you're a newbie, intermediate, or expert, find valuable assistance and guidance to enhance your skiing skills.
   - Additionally, discover instructional videos on the Ski Guide page demonstrating how to improve your skills, catering to beginners, intermediates, and experts alike.
   
-![ski Guide](assets/images/ski-guide-pagee.png)
+![ski Guide](docs/readme_images/ski-guide-pagee.png)
 
 - ### footer 
   - The footer section includes links to Skier's guide's Facebook, Instagram, Twitter and pages.
   - a "contact us" with email and phone number
   - a short about us
   
-![footer](assets/images/footer.png)
+![footer](docs/readme_images/footer.png)
 
 ### Features Left to Implement
 - Hover on the gear page
@@ -125,7 +125,7 @@ The Raleway font is the main font used throughout the whole website. This font w
 - #### Accessibility
   - The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
 
-![Lighthouse score](assets/images/real-light-house-ski.png)
+![Lighthouse score](docs/readme_images/real-light-house-ski.png)
 
 ### Links Testing
 
