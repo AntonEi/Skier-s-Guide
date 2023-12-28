@@ -31,3 +31,11 @@ the live link can be found here - [Skier's guide](https://antonei.github.io/Skie
 - ### Frequent User
   - As a frequent user, I want to easily discover the best and latest ski gear on the market, ensuring I stay informed and equipped for optimal performance on the slopes.
   - As a frequent user, I want to easily explore and stay updated on valuable tips,
+
+## Design
+ 
+### Imagery 
+The imagery used on the Skier Guide site is very important to the overall experience of the user. Captivating images of snow-capped mountains create a sense of adventure and anticipation, transporting users to the exhilarating world of skiing. These visuals not only showcase the breathtaking beauty of the slopes but also evoke the thrill and serenity of the skiing experience.
+
+### colours
+The Skier Guide energetic tones capture the thrill of skiing, while calming hues reflect snow-covered landscapes. Primarily featuring white and gray tones with strategic touches of red.
