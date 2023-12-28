@@ -167,3 +167,54 @@ Friends and family members were asked to review the site and documentation to po
 - [Google Fonts](https://fonts.google.com/) - Used to import and alter fonts on the page.
 - [TinyPNG](https://tinypng.com/) - Used to compress images to reduce file size without a reduction in quality.
 - [W3C](https://www.w3.org/) - Used for HTML & CSS Validation.
+
+## Deployment
+
+The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
+
+1. Go to the repository on GitHub.com
+2. Select 'Settings' near the top of the page.
+3. Select 'Pages' from the menu bar on the left of the page.
+4. Under 'Source' select the 'Branch' dropdown menu and select the main branch.
+5. Once selected, click the 'Save'.
+6. Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
+
+The live link can be found here - [Skier's Guide](https://antonei.github.io/Skier-s-Guide/index.html)
+
+## Credits
+
+### Content
+All educational ski content was sourced from the below websites:
+  
+  - [Blue-Tomato](https://www.blue-tomato.com/en-SE)
+   - [St Anton](https://www.stantonamarlberg.com/en/home)
+  - [Whistler](https://www.whistlerblackcomb.com/)
+  - [Lake Louise](https://www.skilouise.com/)
+  - [Les 3 valles](https://www.les3vallees.com/en)
+  - [chamonix](https://en.chamonix.com/)
+  - [zermatt](https://www.zermatt.ch/en)
+
+### Media
+All images and videos were sourced from the below websites with thanks to the below amazing photographers/videographers
+#### home page pictures 
+- [Pexels](https://www.pexels.com/)
+    - Flo Maderebner -Header
+    - Vlada Karpovich - Mountain behind gear guide segment
+- Best ski resort pictures are from:
+  - [frenchmoments.eu](<https://frenchmoments.eu/chamonix-mont-blanc/>)
+  - [epicpass](https://www.epicpass.com/region/europe/france.aspx)
+  - [zermatt](<https://www.zermatt.ch/>)
+  - [skidorter](<https://www.skidorter.se/st-anton>)
+  - [whistlervillagecondos](<https://www.whistlervillagecondos.com/visitor-information/whistler-blackcomb-ski-resort/>)
+  - [skilouise](https://www.skilouise.com/)
+- Ski Gear picture are from: 
+  - [Blue-Tomato](https://www.blue-tomato.com/en-SE)
+- Ski guide pitcure and videos are from:
+  - Pictures from [Wikipedia](en.m.wikipedia.org)
+  - Vidoes:
+    - [Stomp It Tutorials](https://www.youtube.com/watch?v=MMeJsyiiifM)
+    - [Carv - Digital Ski Coach](https://www.youtube.com/watch?v=1Zcy_nsOwGk)
+    - [Red Bull Snow
+](https://www.youtube.com/watch?v=fbqHK8i-HdA)
+
+
