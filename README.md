@@ -19,3 +19,15 @@ the live link can be found here - [Skier's guide](https://antonei.github.io/Skie
 
 ## User Stories
 - ### First time user
+  - As a first time user I want to understand the main purpose of the site and learn about the benifits of having the best gear in the slopes
+  - As a first-time user, I want to navigate the website intuitively, ensuring a positive and enjoyable experience.
+  - As a first time user I want to be able to browse ski content without having to sign-up / register.
+
+- ### Returing User
+  - As a returning user, I want to effortlessly navigate to the best ski gear that enhances my skiing experience on the slopes.
+  - As a returning user, I want to find step-by-step instructions to improve my skills both on and off the slopes, ensuring a comprehensive guide for my skiing journey.
+  - As a returning user, I want to easily locate my next skiing destination on the 'Ski Resort Page.
+
+- ### Frequent User
+  - As a frequent user, I want to easily discover the best and latest ski gear on the market, ensuring I stay informed and equipped for optimal performance on the slopes.
+  - As a frequent user, I want to easily explore and stay updated on valuable tips,
