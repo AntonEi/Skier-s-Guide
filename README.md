@@ -4,7 +4,7 @@ Skier's Guide is a comprehensive platform dedicated to enhancing your skiing exp
 
 Our guide goes beyond the slopes, delving into the intricacies of skiing techniques and strategies for skiers of all levels, from beginners to intermediates and professionals. Whether you're looking for the perfect resort for your next adventure or seeking advice on the latest and greatest gear, Skier's Guide has you covered.
 
-the live link can be found here - [Skier's Guide](https://antonei.github.io/Skier-s-Guide/)
+The live link can be found here - [Skier's Guide](https://antonei.github.io/Skier-s-Guide/)
 
 ![Skier's guide](assets/images/skarmbild.png)
 
@@ -15,15 +15,15 @@ the live link can be found here - [Skier's Guide](https://antonei.github.io/Skie
 - To provide the user with precise instructions, images, and benefits for each skill level.
 - To provide the user with a calming, responsive platform for easy navigation.
 - To Enhance your skiing skills with our in-depth video tutorials, providing step-by-step guidance.
-- to explore our in-depth gear section for carefully selected insights and recommendations on the latest ski equipment.
+- To explore our in-depth gear section for carefully selected insights and recommendations on the latest ski equipment.
 
 ## User Stories
 - ### First time user
-  - As a first time user I want to understand the main purpose of the site and learn about the benifits of having the best gear in the slopes
+  - As a first-time user, I want to understand the main purpose of the site and learn about the benifits of having the best gear in the slopes
   - As a first-time user, I want to navigate the website intuitively, ensuring a positive and enjoyable experience.
-  - As a first time user I want to be able to browse ski content without having to sign-up / register.
+  - As a first-time user, I want to be able to browse ski content without having to sign-up / register.
 
-- ### Returing User
+- ### Returning User
   - As a returning user, I want to effortlessly navigate to the best ski gear that enhances my skiing experience on the slopes.
   - As a returning user, I want to find step-by-step instructions to improve my skills both on and off the slopes, ensuring a comprehensive guide for my skiing journey.
   - As a returning user, I want to easily locate my next skiing destination on the 'Ski Resort Page.
@@ -147,7 +147,7 @@ The Raleway font is the main font used throughout the whole website. This font w
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Fixed Bugs
-#### Add font awesome to all pages 
+#### Added font awesome to all pages 
 
 - During the recent development of my website, I encountered an unexpected challenge with the navigation toggle button not displaying as intended. After thorough investigation, I identified the root caused by a missing Font Awesome library in the bottom of the rest of the pages.
   
@@ -222,7 +222,7 @@ All images and videos were sourced from the below websites with thanks to the be
 
 ### Resources Used
 
-- inspired by [Demo.templatemonster](https://demo.templatemonster.com/demo/98665.html?
+- Inspired by [Demo.templatemonster](https://demo.templatemonster.com/demo/98665.html?
 - Inspiration for gear section in home page - [Code Institutes](https://learn.codeinstitute.net/) 'Love Running Project'
 
 ## Acknowledgments
