@@ -125,7 +125,7 @@ The Raleway font is the main font used throughout the whole website. This font w
 - #### Accessibility
   - The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
 
-![Lighthouse score](assets/images/lighthouse.png)
+![Lighthouse score](assets/images/real-light-house-ski.png)
 
 ### Links Testing
 
