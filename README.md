@@ -142,4 +142,28 @@ The Raleway font is the main font used throughout the whole website. This font w
 - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
 - I also used the following websites to test responsiveness:
   -  [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Fantonei.github.io%2FSkier-s-Guide%2Findex.html)
-  -  
+  - [Am I Responsive](https://ui.dev/amiresponsive?url=https://antonei.github.io/Skier-s-Guide/index.html)
+
+### Friends and Family User Testing
+Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+### Fixed Bugs
+#### ....
+
+
+## Technologies Used
+
+### Languages
+- HTML5
+- CSS
+
+### Frameworks - Libraries - Programs Used
+- [Am I Responsive](http://ami.responsivedesign.is/) - Used to verify responsiveness of website on different devices.
+- [Responsinator](http://www.responsinator.com/) - Used to verify responsiveness of website on different devices.
+- [Balsamiq](https://balsamiq.com/) - Used to generate Wireframe images.
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Used for overall development and tweaking, including testing responsiveness and performance.
+- [Font Awesome](https://fontawesome.com/) - Used for Social Media icons in footer.
+- [GitHub](https://github.com/) - Used for version control and hosting.
+- [Google Fonts](https://fonts.google.com/) - Used to import and alter fonts on the page.
+- [TinyPNG](https://tinypng.com/) - Used to compress images to reduce file size without a reduction in quality.
+- [W3C](https://www.w3.org/) - Used for HTML & CSS Validation.
