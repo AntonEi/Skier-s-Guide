@@ -64,5 +64,39 @@ The Raleway font is the main font used throughout the whole website. This font w
 - ### Best Ski Resort Section
   - The Best Ski Resort section offers concise descriptions of our top three ski paradises
   - Above the text, there are small pictures showcasing the ski resort.
-  - 
+  - Below the text, you'll find a link to explore more top resorts on the dedicated page.
  
+ ![best ski resort section img](assets/images/best-ski-resort-section.png) 
+
+- ### Best Ski Gear Section
+  - This section comprises five blocks, each featuring pictures illustrating skiing gear with a background of an mountain.
+  - Each block functions as a link, directing you to the dedicated ski gear page.
+
+![Gear guide section](assets/images/gear-guide-section.png)
+
+- ### Ski Guide Section
+  - The Ski Guide section provides comprehensive skiing instructions tailored for individuals ranging from beginners to intermediates and experts, offering valuable insights for enthusiasts at every skill level.
+  - At the end of each text, there's a link to explore other pages for more in-depth information and a comprehensive understanding.
+  
+![ski guide section]()
+
+- ### Ski Resort Page
+  - On the Ski Guide page, you'll discover a curated list, ranked from 1 to 6, showcasing the best ski resorts out there.
+  - Explore additional details about each ski resort.
+  -  you can click the provided link to visit the official website of each ski resort for further information.
+
+![ski resort page]()
+
+- ### Gear Guide 
+  - On the Gear Guide page, discover the latest and most advanced skiing gear available.
+  - You can also find detailed information on each piece of gear directly on the page.
+  
+![Gear Guide](assets/images/gear-guide-page.png) 
+
+- ### Ski Guide Page
+  - On the Ski Guide page, whether you're a newbie, intermediate, or expert, find valuable assistance and guidance to enhance your skiing skills.
+  - Additionally, discover instructional videos on the Ski Guide page demonstrating how to improve your skills, catering to beginners, intermediates, and experts alike.
+  
+![ski Guide](assets/images/ski-guide-pagee.png)
+
+
