@@ -11,4 +11,11 @@ the live link can be found here - [Skier's guide](https://antonei.github.io/Skie
 
 ## Site Owner Goals
 
-fdg
+- To provide the user with key insights into top ski resorts, 2024 gear, and skill progression from newbie to pro.
+- To provide the user with precise instructions, images, and benefits for each skill level.
+- To provide the user with a calming, responsive platform for easy navigation.
+- To Enhance your skiing skills with our in-depth video tutorials, providing step-by-step guidance.
+- to explore our in-depth gear section for carefully selected insights and recommendations on the latest ski equipment.
+
+## User Stories
+- ### First time user
