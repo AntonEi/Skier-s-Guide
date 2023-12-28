@@ -44,8 +44,8 @@ The Skier Guide energetic tones capture the thrill of skiing, while calming hues
 The Raleway font is the main font used throughout the whole website. This font was imported via [Google Fonts](https://fonts.google.com/). I'm using Sans Serif as a backup font, in case for any reason the main font isn't being imported into the site correctly.
 
 ### Wireframes
- - [Wireframes desktop](assets/images/newwireframe1.png)
- - [Wireframes mobile](assets/images/newwireframe2.png)
+![Wireframes desktop](assets/images/newwireframe1.png)
+![Wireframes mobile](assets/images/newwireframe2.png)
 
 ## Features
 - ### Navigation
@@ -125,7 +125,7 @@ The Raleway font is the main font used throughout the whole website. This font w
 - #### Accessibility
   - The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
 
-[Lighthouse score](assets/images/lighthouse.png)
+![Lighthouse score](assets/images/lighthouse.png)
 
 ### Links Testing
 
