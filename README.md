@@ -53,3 +53,16 @@ The Raleway font is the main font used throughout the whole website. This font w
   - On smaller devices, a space-saving dropdown menu is implemented, streamlining navigation for an optimized user experience. This design choice prioritizes efficiency while maintaining the website's clean and intuitive interface.
   - On smaller devices, the dropdown menu features a gray background, enhancing text visibility and ensuring a user-friendly experience by prioritizing clarity and readability.
 
+![nav bar image](assets/images/navbar.png)
+
+- ### The Landing Page Image
+  - The captivating landing page features an enticing image with a compelling text overlay, inviting you to embark on a journey to explore the skiing world with Skiers Guide.
+  - This section provides the user with a clear visual representation of the purpose of the site.
+
+![Landing page image](assets/images/land-page.png)
+
+- ### Best Ski Resort Section
+  - The Best Ski Resort section offers concise descriptions of our top three ski paradises
+  - Above the text, there are small pictures showcasing the ski resort.
+  - 
+ 
