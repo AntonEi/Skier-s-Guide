@@ -4,7 +4,7 @@ Skier's Guide is a comprehensive platform dedicated to enhancing your skiing exp
 
 Our guide goes beyond the slopes, delving into the intricacies of skiing techniques and strategies for skiers of all levels, from beginners to intermediates and professionals. Whether you're looking for the perfect resort for your next adventure or seeking advice on the latest and greatest gear, Skier's Guide has you covered.
 
-the live link can be found here - [Skier's guide](https://antonei.github.io/Skier-s-Guide/)
+the live link can be found here - [Skier's Guide](https://antonei.github.io/Skier-s-Guide/)
 
 ![Skier's guide](assets/images/skarmbild.png)
 
@@ -126,7 +126,7 @@ The Raleway font is the main font used throughout the whole website. This font w
 - #### Accessibility
   - The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
 
-![lighthouse score]()
+[lighthouse score.........]()
 
 ### Links Testing
 
@@ -148,8 +148,12 @@ The Raleway font is the main font used throughout the whole website. This font w
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Fixed Bugs
-#### ....
+#### Add font awesome to all pages 
 
+- During the recent development of my website, I encountered an unexpected challenge with the navigation toggle button not displaying as intended. After thorough investigation, I identified the root caused by a missing Font Awesome library in the bottom of the rest of the pages.
+  
+#### Hr was blocking p
+  - During the recent validation of our CSS, the validator alerted us to an unclosed p segment. After meticulous inspection, I traced the issue back to an unexpected hr tag within the paragraph. Realizing that the validator doesn't allow an hr element in between the opening and closing p tags, I promptly corrected the structure, ensuring adherence to best practices.
 
 ## Technologies Used
 
@@ -196,7 +200,7 @@ All educational ski content was sourced from the below websites:
 
 ### Media
 All images and videos were sourced from the below websites with thanks to the below amazing photographers/videographers
-#### home page pictures 
+#### Pictures and more
 - [Pexels](https://www.pexels.com/)
     - Flo Maderebner -Header
     - Vlada Karpovich - Mountain behind gear guide segment
@@ -217,4 +221,15 @@ All images and videos were sourced from the below websites with thanks to the be
     - [Red Bull Snow
 ](https://www.youtube.com/watch?v=fbqHK8i-HdA)
 
+### Resources Used
 
+- inspired by [Demo.templatemonster](https://demo.templatemonster.com/demo/98665.html?_gl=1*1pod1yf*_ga*NjEzMzI1ODc2LjE3MDM1Mjc3NjA.*_ga_FTPYEGT5LY*MTcwMzYxMzc2My41LjEuMTcwMzYxNDAxMS40OC4wLjA.)
+- [Stack Overflow](https://stackoverflow.com/)
+
+## Acknowledgments
+
+My mentor Antonio for his support and advice.
+
+My fellow student Elin Dalenbäck.
+
+The Code Institute slack community for their quick responses and very helpful feedback!
