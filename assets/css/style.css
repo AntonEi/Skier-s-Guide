@@ -22,12 +22,14 @@ header {
     background: url(../images/Header.webp) no-repeat center center/cover;
     height: 90vh;
     max-width: 100%;
+    background-color: #000000;
 }
 
 /* styling for the header of the pages except home */
 .otherheader {
     height: 12vh;
 }
+
 /* style on the header*/
 .home-header {
     background-color: transparent;
@@ -40,6 +42,7 @@ header {
     align-items: baseline;
     padding-top: 10px;
 }
+
 /* styling for the white text in the header picture*/
 #intro {
     height: 100px;
@@ -62,11 +65,13 @@ h1 {
     font-size: 150%;
     margin: 0 0.0rem;
 }
+
 /* style for all the links*/
 a {
     text-decoration: none; 
     color: inherit;
 }
+
 /* styling for the navbar */
 #menu { 
     font-size: 115%;
@@ -110,21 +115,19 @@ nav {
     position: relative;
 }
 
-
-
 /*Main*/
 main {
     color: black;
     /* make main elemnt take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
+
 /* styling for the skiresort section on the home page*/
 #ski-resorts>h2 {
     font-size: 150%;
     text-align: center;
     padding-top: 20px;
 }
-
 
 #resorts h3{
     padding-top: 20px;
@@ -162,12 +165,16 @@ main {
 #resorts a {
     color:#e70d0d;
 }
+
 /* this is for best ski resorts and ski guide section on the home page. And for the content on the gearguide page  */
+
 .contaier {
     padding: 0 20px;
     background-color: #f0f2f6;
 }
+
 /* this is for best ski resorts and ski guide section on the home page. And for the content on the gearguide page  */
+
 hr {
     border-top: 15px solid #f0f2f6;
     margin-left: -30px;
@@ -176,11 +183,13 @@ hr {
 }
 
 /* for the best gear section on homepage*/
+
 #gear {
     background: url(../images/for-best-gear-g.jpg) no-repeat center/cover;
     display: flex;
     flex-wrap: wrap;
 }
+
 #gear div {
     color:#fafafa;
     background-color: rgba(0, 0, 0, .6);
@@ -192,6 +201,7 @@ hr {
     flex-grow: 1;
     border: 2px solid white;
 }
+
 #gear p {
     font-size: 180%;
 }
@@ -223,7 +233,6 @@ hr {
     text-align: center;
     padding-top: 20px;
 }
-
 
 #guide h3 {
     padding-top: 20px;
@@ -266,6 +275,7 @@ hr {
 .head-pic-pages {
     padding-top: 0;
 }
+
 /* the important rules are fixing the bug that makes the h2 get big on the ski resort page */
 .skiresortpageh2 {
     font-size: 30px !important;
@@ -280,6 +290,7 @@ hr {
     text-align: left !important;
     padding-top: 0 !important;
 }
+
 .skiresort-page{
     display: flex;
     justify-content: space-between;
@@ -287,17 +298,21 @@ hr {
     width: 100%;
     background-color: #f0f2f6;
 }
+
 .skiresort-page img {
     height: auto;
     width: 80%;
     margin-left: 10%;
 }
+
 .skiresort-page p{
     padding-top: 1%;
 }
+
 .othermain {
     margin: 0;
 }
+
 .othermain h1 {
     padding: 30px;
     font-size: 150%;
@@ -306,6 +321,7 @@ hr {
     padding-left: 10px;
     padding-right: 10px;
 }
+
 .skiresort-page a {
     color: #e70d0d;
 }
@@ -360,6 +376,7 @@ hr {
 #guidepage a {
     color: #e70d0d;
 }
+
 /* for the ski-guide page */
 .skiguidepage {
     display: flex;
@@ -367,12 +384,14 @@ hr {
     padding: 10px;
     background-color: #f0f2f6;
 }
+
 .containcolor h2 {
     font-size: 250%;
     text-align: center;
     padding-top: 20px;
     background: #f0f2f6;
 }
+
 .head-p {
     padding: 20px 40px;
     text-align: center;
@@ -380,6 +399,7 @@ hr {
     line-height: 1.5;
     background: #f0f2f6;
 }
+
 iframe{
     width: 100%;
     height: 350px;
@@ -445,6 +465,7 @@ footer {
     color: #ffffff;
     align-content: space-between;
 }
+
 /* Meadia query: tablet and larger (500px and up) */
 @media screen and (min-width: 500px) {
     
@@ -530,7 +551,7 @@ footer {
         flex-wrap: wrap;
         justify-content: space-evenly;
         column-count: 3;
-     }
+    }
     
     #guide>div {
         width: 30%;
